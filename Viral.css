@@ -1,5 +1,5 @@
 .controller.custom{
-    background: url(https://gist.githubusercontent.com/ryanjrman/605d3baeadaba4b7905d7b721722aedc/raw/92af9caf86be7d2221cf2fe9870086d549428dfb/baseViral.svg);
+    background: url(base-viral.svg);
     height: 630px;
     width: 750px;
     margin-left: -375px;
@@ -10,8 +10,8 @@
     position: absolute;
     width:62px;
     height:62px;
-    background: url(https://gist.githubusercontent.com/ryanjrman/f3d743156edef4b0fee001e84ce2c52b/raw/c8b5be205cbab12c0a385a827004d0db763e6201/abxyViral.svg);
+    background: url(abxyViral.svg);
 }
 
-/* Link that should work: http://gamepadviewer.com/?p=1&css=https://raw.githubusercontent.com/ryanjrman/Viral/master/VirusControl.css
+/* Link that should work: 
 */
