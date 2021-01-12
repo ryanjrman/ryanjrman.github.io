@@ -1,5 +1,5 @@
 .controller.ds4 {
-    background: url(base.svgz);
+    background: url(base.svg);
     height: 598px;
     width: 806px;
     /*    margin-left: -403px;
@@ -156,7 +156,7 @@ background-position: 0 -70px;
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(face.svgz);
+    background: url(face.svg);
 }
 
 .ds4 .button.pressed {
@@ -196,7 +196,7 @@ background-position: 0 -70px;
 
 .ds4 .stick {
     position: absolute;
-    background: url(sticks.svgz);
+    background: url(sticks.svg);
     height: 94px;
     width: 94px;
 }
@@ -228,7 +228,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .face {
-    background: url(dpad.svgz);
+    background: url(dpad.svg);
     position: absolute;
 }
 
